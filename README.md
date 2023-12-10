@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project includes code for predicting stock prices using Monte Carlo simulations and Random Forests. Additionally, it provides a basic guide to web scraping for collecting relevant data.
+This project includes code for predicting stock prices using Monte Carlo simulations and Random Forests. Additionally, it provides a basic guide to web scraping for collecting relevant qualitative market data.
 
 ## Prediction Results
 
