@@ -27,10 +27,10 @@ The repository is organized as follows:
 
 ## Project 2: Customers and Products Analysis Using SQL
 
-## Project Overview
-This project aims to analyze sales data from a scale model cars database to inform decision-making processes. The data encompasses various aspects of the business, including customer behavior, product performance, and sales trends. The ultimate goal is to optimize ordering strategies, tailor marketing efforts, and determine budget allocation for customer acquisition. 
+### Project Overview
+This project contains SQL analysis of multiple markets. Using scale model car analytics as an example, we aim to analyze sales data from a scale model cars database to inform decision-making processes. The data encompasses various aspects of the business, including customer behavior, product performance, and sales trends. The ultimate goal is to optimize ordering strategies, tailor marketing efforts, and determine budget allocation for customer acquisition. 
 
-## Database Schema
+### Database Schema
 The database contains eight tables:
 - `Customers`: Contains customer data.
 - `Employees`: Information about all employees.
@@ -41,7 +41,7 @@ The database contains eight tables:
 - `Products`: A list of scale model cars available.
 - `ProductLines`: Categories of product lines.
 
-## Key Questions
+### Key Questions
 1. **Which Products Should We Order More Of Or Less Of?**
    - Analyze low stock levels and product performance to identify priority products for restocking.
 2. **How Should We Tailor Marketing and Communication Strategies to Customer Behaviors?**
@@ -49,10 +49,11 @@ The database contains eight tables:
 3. **How Much Can We Spend on Acquiring New Customers?**
    - Determine the Customer Lifetime Value (LTV) to guide budget allocation for new customer acquisition.
 
-## Analysis and Findings
+### Analysis and Findings
 
 ### Problem 1: Product Ordering Strategy
-
+- Found that Motorcycles and Vintage cars are the priority for restocking. They sell frequently, 
+and they are the highest-performance products.
 
 ### Problem 2: Tailoring Marketing Strategies
 - Identified VIP customers and less-engaged customers, suggesting targeted events and campaigns to boost loyalty and engagement, respectively.
