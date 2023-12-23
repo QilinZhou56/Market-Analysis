@@ -24,3 +24,5 @@ The repository is organized as follows:
 
 - **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests.
 - **`scraping.ipynb`**: Jupyter Notebook providing a basic guide to web scraping for collecting data.
+
+## Project 2: Customers and Products Analysis Using SQL
