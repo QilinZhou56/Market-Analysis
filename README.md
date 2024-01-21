@@ -1,10 +1,10 @@
 # Quantitative Market Analysis
 
-## Project 1: Stock Price Prediction with Monte Carlo Method and Random Forests
+## Project 1: Stock Price Movement Prediction with Monte Carlo Method and Random Forests
 
 ### Overview
 
-This project features specialized code designed for predicting the stock prices of the S&P 500 index, employing both Monte Carlo simulations and Random Forest algorithms. It also offers an introductory guide to web scraping, aimed at gathering essential qualitative market data.
+This project features specialized code designed for predicting the stock price movement of the S&P 500 index, employing both Monte Carlo simulations and Random Forest algorithms. It also offers an introductory guide to web scraping, aimed at gathering essential qualitative market data.
 
 ### Prediction Results
 
