@@ -3,7 +3,7 @@
 ## Stock News Application: Daily Stock News Finviz (headlines)
 - app.py
 - display.py Display Stock News through PySimpleGUI
-- scraper.py Scraped Stock News from https://finviz.com/
+- scraper.py Scrape Stock News from https://finviz.com/
   
 ## Project 1: Stock Price Movement Prediction with Monte Carlo Method and Random Forests
 
