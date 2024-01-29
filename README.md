@@ -1,6 +1,6 @@
 # Quantitative Market Analysis
 
-## Stock News Application: Daily Stock News Finviz
+## Stock News Application: Daily Stock News Finviz (headlines)
 - app.py
 - display.py Display Stock News through PySimpleGUI
 - scraper.py Scraped Stock News from https://finviz.com/
