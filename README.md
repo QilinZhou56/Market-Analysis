@@ -1,9 +1,4 @@
 # Quantitative Market Analysis
-
-## Stock News Application: Daily Stock News Finviz (headlines)
-- app.py
-- display.py Display Stock News through PySimpleGUI
-- scraper.py Scrape Stock News from https://finviz.com/
   
 ## Project 1: Stock Price Movement Prediction with Monte Carlo Method and Random Forests
 
@@ -20,13 +15,13 @@ After running the Monte Carlo simulations and Random Forest model, the following
 - Probability of Stock Price Increasing after 1 Year: 64.45%
 
 ### Improved Model with Rolling Averages and Backtesting
+### Stock News Application: Daily Stock News Finviz (headlines)
 
 ### Project Structure
-
-The repository is organized as follows:
-
 - **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests.
-- **`scraping.ipynb`**: Jupyter Notebook providing a basic guide to web scraping for collecting data.
+- **` app.py `**: GUI initiator
+- **`display.py`**: Display Stock News through PySimpleGUI
+- **` scraper.py`**: Scrape Stock News from https://finviz.com/
 
 ## Project 2: Customers and Products Analysis Using SQL
 
