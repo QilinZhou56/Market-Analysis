@@ -4,7 +4,7 @@
 
 ### Overview
 
-This project features specialized code designed for predicting the stock price movement of the S&P 500 index, employing both Monte Carlo simulations and Random Forest algorithms. It also offers an introductory guide to web scraping, aimed at gathering essential qualitative market data.
+This project features specialized code designed for predicting the stock price movement of the S&P 500 index, employing both Monte Carlo simulations and Random Forest algorithms. It also offers an introductory guide to web scraping, aimed at gathering essential qualitative market data such as financial news.
 
 ### Prediction Results
 
@@ -14,14 +14,11 @@ After running the Monte Carlo simulations and Random Forest model, the following
 - Predicted Percent Increase after 1 Year: 9.6%
 - Probability of Stock Price Increasing after 1 Year: 64.45%
 
-### Improved Model with Rolling Averages and Backtesting
-### Stock News Application: Daily Stock News Finviz (headlines)
-
 ### Project Structure
-- **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests.
-- **` app.py `**: GUI initiator
+- **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests, integrating rolling averages and backtesting
+- **`app.py `**: GUI initiator
 - **`display.py`**: Display Stock News through PySimpleGUI
-- **` scraper.py`**: Scrape Stock News from https://finviz.com/
+- **`scraper.py`**: Scrape Stock News from https://finviz.com/
 
 ## Project 2: Customers and Products Analysis Using SQL
 
