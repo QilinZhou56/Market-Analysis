@@ -21,8 +21,6 @@ After running the Monte Carlo simulations and Random Forest model, the following
 
 ### Improved Model with Rolling Averages and Backtesting
 
-After incorporating rolling averages and backtesting, the Random Forest model achieved an accuracy of 56.24%.
-
 ### Project Structure
 
 The repository is organized as follows:
