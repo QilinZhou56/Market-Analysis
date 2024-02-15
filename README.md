@@ -15,10 +15,11 @@ After running the Monte Carlo simulations and Random Forest model, the following
 - Probability of Stock Price Increasing after 1 Year: 64.45%
 
 ### Project Structure
-- **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests, integrating rolling averages and backtesting
+- **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests, integrating rolling averages and backtesting (Guide)
 - **`app.py `**: GUI initiator
 - **`display.py`**: Display Stock News through PySimpleGUI
 - **`scraper.py`**: Scrape Stock News from https://finviz.com/
+- **`time_series.py`**: Integrated Lagged Predictors and Oscillators (with Macro factors such as interest rate and exchange rate) to Random Forest Model
 
 ## Project 2: Customers and Products Analysis Using SQL
 
