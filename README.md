@@ -16,10 +16,10 @@ After running the Monte Carlo simulations and Random Forest model, the following
 
 ### Project Structure
 - **`Stock Market Prediction.ipynb`**: Jupyter Notebook containing code for stock price prediction using Monte Carlo simulations and Random Forests, integrating rolling averages and backtesting (Guide)
-- **`app.py `**: GUI initiator
+- **`app.py `**: GUI initiator, works for every existing ticker in **yfinance**!
 - **`display.py`**: Display Stock News through PySimpleGUI
 - **`scraper.py`**: Scrape Stock News from https://finviz.com/
-- **`time_series.py`**: Integrated Lagged Predictors and Oscillators (with Macro factors such as interest rate and exchange rate) to Random Forest Model
+- **`time_series.py`**: Integrated Lagged Predictors and Oscillators (with Macro factors such as interest rate and exchange rate) to Random Forest Model.
 - **`price_model.py`**: Trained three stock movement prediction models, Random Forests, ANN, LSTM, with average accuracy around 55%, precision around 56%, recall varies largely across models (RNF around 76%, backtesting much lower; ANN and LSTM recall around 99%), specifically for **AAPL**. The result may vary across companies.
 
 ## Project 2: Customers and Products Analysis Using SQL
