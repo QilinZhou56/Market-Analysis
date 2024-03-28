@@ -20,7 +20,7 @@ After running the Monte Carlo simulations and Random Forest model, the following
 - **`display.py`**: Display Stock News through PySimpleGUI
 - **`scraper.py`**: Scrape Stock News from https://finviz.com/
 - **`time_series.py`**: Integrated Lagged Predictors and Oscillators (with Macro factors such as interest rate and exchange rate) to Random Forest Model.
-- **`price_model.py`**: Trained three stock movement prediction models, Random Forests, ANN, LSTM, with average accuracy around 55%, precision around 56%, recall varies largely across models (RNF around 76%, backtesting much lower; ANN and LSTM recall around 99%), specifically for **AAPL**. The result may vary across companies.
+- **`price_model.py`**: Trained three stock movement prediction models, Random Forests, ANN, LSTM, with average accuracy around 55%, precision around 56%, specifically for **AAPL**. The result may vary across companies.
 - More detailed implementation can be checked at my UChicago GitHub account, with my team members' implementation in stock visualization and sentiment analysis. **https://github.com/qilinzho56/SP500.git**
 
 ## Project 2: Customers and Products Analysis Using SQL
